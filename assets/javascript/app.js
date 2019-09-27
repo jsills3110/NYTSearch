@@ -7,3 +7,4 @@ var resultsDiv = $("#results");
 $("#clear-results").on("click", function() {
     resultsDiv.empty();
 })
+
